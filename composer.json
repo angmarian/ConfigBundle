@@ -1,9 +1,9 @@
 {
-    "name": "dhorchler/config-bundle",
+    "name": "angmarian/config-bundle",
     "type": "symfony-bundle",
     "description": "Database-stored settings that are administrable in Sonata Admin Bundle.",
     "keywords": ["symfony2", "config", "settings", "Sonata Admin"],
-    "homepage": "https://github.com/Dhorchler/DhorchlerConfigBundle",
+    "homepage": "https://github.com/angmarian/DhorchlerConfigBundle",
     "license": "MIT",
     "authors": [
     {
@@ -18,7 +18,7 @@
     "require": {
         "php": ">=5.3.3",
         "symfony/framework-bundle": ">=2.2-dev,<2.4-dev",
-        "sonata-project/admin-bundle": ">=2.2.*@dev"
+        "sonata-project/admin-bundle": ">=2.2-dev"
     },
     "autoload": {
         "psr-0": {
